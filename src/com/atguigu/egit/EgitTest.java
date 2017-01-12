@@ -10,6 +10,11 @@ public class EgitTest {
 		System.out.println("git。。。");
 		System.out.println("git。。。");
 		System.out.println("git。。。");
+		System.out.println("git。。。01");
+		System.out.println("git。。。01");
+		System.out.println("git。。。01");
+		System.out.println("git。。。01");
+		System.out.println("git。。。01");
 	}
 
 }
